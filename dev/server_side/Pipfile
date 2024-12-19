@@ -1,0 +1,47 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+asgiref = "*"
+astroid = "*"
+boto3 = "*"
+botocore = "*"
+certifi = "*"
+chardet = "*"
+django = "*"
+django-extensions = "*"
+django-filter = "*"
+django-storages = "*"
+djangorestframework = "*"
+gunicorn = "*"
+idna = "*"
+isort = "*"
+jmespath = "*"
+lazy-object-proxy = "*"
+markdown = "*"
+mccabe = "*"
+mysqlclient = "*"
+pillow = "*"
+pydotplus = "*"
+pyjwt = "*"
+pylint = "*"
+pyparsing = "*"
+python-dateutil = "*"
+pytz = "*"
+requests = "*"
+s3transfer = "*"
+six = "*"
+sqlparse = "*"
+toml = "*"
+twilio = "*"
+urllib3 = "*"
+whitenoise = "*"
+wrapt = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"
